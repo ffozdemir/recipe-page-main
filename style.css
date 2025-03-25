@@ -65,6 +65,13 @@ span {
    border-radius: var(--border-radius);
 }
 
+.preparation{
+   background-color: var(--rose-50);
+   border-radius: var(--border-radius);
+   padding: 15px 30px;
+
+}
+
 .text-section {
    padding: 15px 30px;
    display: flex;
