@@ -69,7 +69,10 @@ span {
    background-color: var(--rose-50);
    border-radius: var(--border-radius);
    padding: 15px 30px;
+}
 
+.preparation h2{
+   font-size: large;
 }
 
 .text-section {
